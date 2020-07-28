@@ -11,7 +11,7 @@ import org.quartz.impl.StdSchedulerFactory;
 
 public class TestQuartz {
 	public static void main(String[] args) throws Exception{
-            //创建调度器
+            //创建调度器 lalalalal
             Scheduler scheduler = StdSchedulerFactory.getDefaultScheduler();
 
             //定义一个触发器
